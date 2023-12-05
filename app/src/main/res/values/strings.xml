@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bottom Navgation</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="logout">Logout</string>
+    <string name="category">Category</string>
+    <string name="history">History</string>
+    <string name="notification">Notification</string>
+    <string name="cart">Cart</string>
+    <string name="profile_tag">Profile Tag</string>
+    <string name="profile_user_name">Tuấn Trần</string>
+    <string name="profile_email">quangtuantran1324@gmail.com</string>
+    <string name="add_button">Add button</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
